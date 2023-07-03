@@ -13,4 +13,8 @@ func main() {
 
 	deger = 42
 	fmt.Printf("deger: %v", deger)
+	
+	deger = 42
+	fmt.Printf("deger: %v", deger)
+	
 }
